@@ -61,7 +61,7 @@ The models considered for this project include:
 - Evaluate model performance using accuracy, precision, recall, F1-score, and confusion matrix.
 
 ## Results
-- **Best Performing Model**: Random Forest achieved an accuracy of **X%**.
+- **Best Performing Model**: Random Forest achieved an accuracy of **94%**.
 - **Confusion Matrix**: (Insert Confusion Matrix here)
 - **ROC Curve**: (Insert ROC Curve here)
 - A discussion on why this model performed better than others.
